@@ -32,7 +32,8 @@ section {
 .navbar-toggler {
   border: none;
   color: #dbaf96;
-  font-size: 26px;
+  font-size: 40px;
+  -webkit-appearance: none
 }
 
 /* #wrapper-nav {
