@@ -29,7 +29,11 @@ section {
   box-shadow: 5px 5px 10px 0 rgba(0,0,0,.2);
 }
 
-
+.navbar-toggler {
+  border: none;
+  color: #dbaf96;
+  font-size: 26px;
+}
 
 /* #wrapper-nav {
   background-color: rgba(255, 255, 255, 0.6);
