@@ -57,8 +57,11 @@ section {
 .title h1 {
   text-align: center;
   color: #dbaf96;
-  font-size: 70px;
-  /* font-family: "Cormorant", Verdana, Tahoma; */
+}
+
+.invite-title {
+  font-family: "Caveat", serif;
+  font-size: 80px;
 }
 
 .title div {
@@ -67,12 +70,15 @@ section {
 }
 
 .title .time {
-  font-family: "Cormorant", serif;
+  font-size: 60px;
+  /* font-family: "Cormorant", serif; */
+  font-family: "Caveat", serif;
 }
 
 .title .invite {
-  font-family: "Cormorant", serif;
-  font-size: 40px;
+  /* font-family: "Cormorant", serif; */
+  font-family: "Caveat", serif;
+  font-size: 60px;
 }
 
 .nav {
@@ -99,6 +105,11 @@ section {
 @font-face {
   font-family: "Cormorant";
   src: url(../fonts/CormorantUpright-Light.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Caveat";
+  src: url(../fonts/Caveat/Caveat-VariableFont_wght.ttf) format("truetype");
 }
 
 @font-face {
