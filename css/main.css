@@ -88,6 +88,11 @@ section {
   font-size: 60px;
 }
 
+#s_2 h2 {
+  font-family: "Cormorant Medium", serif;
+  font-size: 50px;
+}
+
 .nav {
   font-size: 20px;
   font-family: "Cormorant Medium", serif;
@@ -179,6 +184,7 @@ p {
 
 #s_3 h2 {
   font-size: 50px;
+  font-family: "Cormorant Medium", serif;
 }
 
 #s_3 .time {
@@ -188,6 +194,7 @@ p {
 
 #s_4 h2 {
   font-size: 50px;
+  font-family: "Cormorant Medium", serif;
 }
 
 #s_4 .time {
