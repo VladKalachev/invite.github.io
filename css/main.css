@@ -209,7 +209,7 @@ section, footer {
     font-size: 50px;
   }
   #wrapper-header {
-    background-position: 36%;
+    background-position: 36% 0%;
   }
   .title h1 {
     text-shadow: 1px 1px 2px #6e6251;
