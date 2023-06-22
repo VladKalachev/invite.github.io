@@ -211,6 +211,9 @@ section, footer {
   #wrapper-header {
     background-position: 36%;
   }
+  .title h1 {
+    text-shadow: 1px 1px 2px #6e6251;
+  }
   /* .title h1 {
     font-size: 65px;
     text-align: center;
