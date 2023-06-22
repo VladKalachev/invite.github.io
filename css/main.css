@@ -232,12 +232,39 @@ section, footer {
     position: relative;
     bottom: -315px;
   }
-  /* .title h1 {
-    text-shadow: 1px 1px 2px #6e6251;
-  } */
+  p {
+    font-size: 16px;
+  }
   #frame_2 {
     width: 100%;
     left: 0;
+  }
+  #section-invite h2 {
+    font-size: 40px;
+  }
+
+  #section-invite .time {
+    font-size: 30px;
+  }
+
+  #s_3 .time {
+    font-size: 30px;
+  }
+
+  #s_4 .time {
+    font-size: 30px;
+  }
+
+  #s_2 h2 {
+    font-size: 40px;
+  }
+
+  #s_3 h2 {
+    font-size: 40px;
+  }
+
+  #s_4 h2 {
+    font-size: 40px;
   }
 }
 
