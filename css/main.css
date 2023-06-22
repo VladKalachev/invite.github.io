@@ -3,7 +3,7 @@ section {
 }
 
 #wrapper-header {
-  background-image: url(../img/brooke-lark-tpCaZTXHfXM-unsplash.jpg);
+  background-image: url(../img/photo-1563894417729-43775b811bf3.avif);
   background-repeat: repeat-x;
   background-attachment: fixed;
   min-height: 830px;
@@ -16,7 +16,7 @@ section {
 
 @supports (-webkit-touch-callout: none) {
   #wrapper-header {
-      background: url(../img/brooke-lark-tpCaZTXHfXM-unsplash.jpg) center top no-repeat scroll;
+      background: url(../img/photo-1563894417729-43775b811bf3.avif) center top no-repeat scroll;
       background-size: auto 100vh;
   }
 }
@@ -62,11 +62,13 @@ section {
 .invite-title {
   font-family: "Caveat", serif;
   font-size: 80px;
+  color: #fff;
 }
 
 .title div {
   text-align: center;
   font-size: 50px;
+  color: #fff;
 }
 
 .title .time {
@@ -199,18 +201,27 @@ section, footer {
     background-color: rgba(255, 255, 255, 0.4);
     border-radius: 10%;
   } */
+  .navbar-toggler {
+    display: none;
+  }
+  #board {
+    position: relative;
+    top: -39px;
+  }
   .invite-title {
-    font-size: 62px;
+    font-size: 50px;
   }
   .title .time {
-    font-size: 50px;
+    font-size: 40px;
+    line-height: 47px;
   }
   .title .invite {
-    font-size: 50px;
+    font-size: 40px;
+    line-height: 24px;
   }
-  #wrapper-header {
+  /* #wrapper-header {
     background-position: 36% 0%;
-  }
+  } */
   .title h1 {
     text-shadow: 1px 1px 2px #6e6251;
   }
