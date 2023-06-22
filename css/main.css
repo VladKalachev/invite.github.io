@@ -195,6 +195,15 @@ section, footer {
 }
 
 @media only screen and (max-width: 600px) {
+  .invite-title {
+    font-size: 62px;
+  }
+  .title .time {
+    font-size: 50px;
+  }
+  .title .invite {
+    font-size: 50px;
+  }
   #frame_2 {
     width: 100%;
     left: 0;
