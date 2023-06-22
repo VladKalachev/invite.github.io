@@ -3,7 +3,7 @@ section {
 }
 
 #wrapper-header {
-  background-image: url(../img/photo-1563894417729-43775b811bf3.avif);
+  background-image: url(../img/photo_2023-06-23_00-25-56.jpg);
   background-repeat: repeat-x;
   background-attachment: fixed;
   min-height: 830px;
@@ -16,7 +16,7 @@ section {
 
 @supports (-webkit-touch-callout: none) {
   #wrapper-header {
-      background: url(../img/photo-1563894417729-43775b811bf3.avif) center top no-repeat scroll;
+      background: url(../img/photo_2023-06-23_00-25-56.jpg) center top no-repeat scroll;
       background-size: auto 100vh;
   }
 }
