@@ -234,10 +234,10 @@ section, footer {
   }
   .title .invite {
     font-size: 40px;
-    line-height: 48px;
+    line-height: 46px;
     display: block;
     position: relative;
-    bottom: -420px;
+    bottom: -315px;
     width: 200px;
     margin: auto;
     margin-right: 10px;
