@@ -187,6 +187,8 @@ p {
   font-family: "Cormorant Medium", serif;
 }
 
+
+
 #s_3 .time {
   color: #dbaf96;
   font-size: 37px;
@@ -195,6 +197,7 @@ p {
 #s_4 h2 {
   font-size: 50px;
   font-family: "Cormorant Medium", serif;
+  line-height: 48px;
 }
 
 #s_4 .time {
@@ -202,13 +205,26 @@ p {
   font-size: 37px;
 }
 
+#s_4 .monitor {
+  display: block;
+}
 
+#s_4 .mob {
+  display: none;
+}
 
 section, footer {
   overflow: hidden;
 }
 
 @media only screen and (max-width: 768px) {
+  #s_4 .monitor { 
+    display: none;
+  }
+  
+  #s_4 .mob {
+    display: block;
+  }
   #s_2 .img_1 {
     width: 100%;
   }
@@ -218,6 +234,8 @@ section, footer {
 }
 
 @media only screen and (max-width: 600px) { 
+
+
   #board {
     position: relative;
     top: -39px;
