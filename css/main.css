@@ -44,6 +44,7 @@ section {
 #frame_1 {
   position: absolute;
   right: 50px;
+  z-index: -100;
 }
 
 #frame_2 {
