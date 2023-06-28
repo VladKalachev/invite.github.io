@@ -41,6 +41,10 @@ section {
   box-shadow: 5px 5px 10px 0 rgba(0,0,0,.2);
 } */
 
+.brit {
+  font-size: 24px;
+}
+
 #frame_1 {
   position: absolute;
   right: 50px;
